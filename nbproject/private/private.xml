@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/package-lock.json</file>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/app/Http/Controllers/GaleriaController.php</file>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/app/Http/Controllers/CommentController.php</file>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/resources/views/pages/galeria.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/resources/views/pages/createphoto.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/resources/views/pages/comments.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Przemek_Gosik_PHP/public/css/Galeria.css</file>
+        </group>
+    </open-files>
+</project-private>
